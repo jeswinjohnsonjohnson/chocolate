@@ -1,239 +1,254 @@
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Archivo+Black&family=Fredoka+One&family=Goblin+One&family=Lobster+Two&family=Mochiy+Pop+One&family=Permanent+Marker&family=Rubik+Moonrocks&family=Splash&family=Titan+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Archivo+Black&family=Fredoka+One&family=Goblin+One&family=Lobster+Two&family=Mochiy+Pop+One&family=Permanent+Marker&family=Rampart+One&family=Rubik+Moonrocks&family=Splash&family=Titan+One&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Anton&family=Archivo+Black&family=Fredoka+One&family=Goblin+One&family=Mochiy+Pop+One&family=Permanent+Marker&family=Rampart+One&family=Rubik+Moonrocks&family=Splash&family=Titan+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Archivo+Black&family=Fredoka+One&family=Goblin+One&family=Kranky&family=Mochiy+Pop+One&family=Permanent+Marker&family=Rampart+One&family=Rubik+Moonrocks&family=Splash&family=Titan+One&family=Ultra&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Anton&family=Archivo+Black&family=Fredoka+One&family=Goblin+One&family=Ibarra+Real+Nova&family=Kranky&family=Mochiy+Pop+One&family=Permanent+Marker&family=Rampart+One&family=Rubik+Moonrocks&family=Splash&family=Titan+One&family=Ultra&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Archivo+Black&family=Edu+TAS+Beginner&family=Fredoka+One&family=Goblin+One&family=Ibarra+Real+Nova&family=Kranky&family=Mochiy+Pop+One&family=Permanent+Marker&family=Rampart+One&family=Rubik+Moonrocks&family=Splash&family=Titan+One&family=Ultra&display=swap');
+
 .d1 {
-    background-color: #f8e3cd;
-    color: #000;
+  background-color: #f8e3cd;
+  color: #000;
 }
 
 #navbar {
-    top: -1px;
-    height: 90px;
-    padding-top: 20px;
-    background-color: white;
+  top: -1px;
+  height: 90px;
+  padding-top: 20px;
+  background-color: white;
 }
 
 .box1 video {
-    width: 100% !important;
-    height: 510px !important;
-    object-fit: cover;
+  width: 100% !important;
+  height: 510px !important;
+  object-fit: cover;
 }
 
 .card1 {
-    width: 250px;
-    box-shadow: 0 4px 8px 0 #b0a79e;
-    text-align: center;
+  width: 250px;
+  box-shadow: 0 4px 8px 0 #b0a79e;
+  text-align: center;
 }
 
 
 
 
 .o1 {
-    width: 300px;
-    height: auto;
-    overflow: hidden;
+  width: 300px;
+  height: auto;
+  overflow: hidden;
 }
 
 .o1 {
-    width: 100%;
-    transition: all .3s ease-in-out;
+  width: 100%;
+  transition: all .3s ease-in-out;
 }
 
 .o1:hover {
-    transform: scale(1.1);
+  transform: scale(1.1);
 }
 
 
 
 
 #m1 {
-    height: 600px;
+  height: 600px;
 }
 
 #m2 {
-    height: 60px;
-    width: 60px;
+  height: 60px;
+  width: 60px;
 }
 
 
 
 
 .d2 {
-    width: 100%;
-    height: 175px;
-    text-align: center;
-    font-size: x-large;
-    font-weight: bolder;
+  width: 100%;
+  height: 175px;
+  text-align: center;
+  font-size: x-large;
+  font-weight: bolder;
 }
 
 .d3 {
-    width: 100%;
-    height: 330px;
-    padding-top: 100px;
-    text-align: center;
-    font-size: x-large;
-    font-weight: bolder;
+  width: 100%;
+  height: 330px;
+  padding-top: 100px;
+  text-align: center;
+  font-size: x-large;
+  font-weight: bolder;
 }
 
 
 
 
 #m3 {
-    filter: grayscale(100%);
-    -webkit-filter: grayscale(100%);
-    -webkit-transition: all 1s ease-out;
+  filter: grayscale(100%);
+  -webkit-filter: grayscale(100%);
+  -webkit-transition: all 1s ease-out;
 }
 
 #m3:hover {
-    filter: grayscale(0%);
-    filter: gray;
-    -webkit-filter: grayscale(0%);
-    filter: none;
-    transition: 1s ease-out;
+  filter: grayscale(0%);
+  filter: gray;
+  -webkit-filter: grayscale(0%);
+  filter: none;
+  transition: 1s ease-out;
 }
 
 
 
 
 .fa {
-    padding: 3px;
-    font-size: 8px;
-    width: 30px;
-    text-align: center;
-    text-decoration:none;
-  }
-  
-  .fa:hover {
-    opacity: 0.7;
-  }
-  
-  .fa-facebook {
-    background: #3B5998;
-    color: white;
-  }
-  .fa-twitter {
-    background: #55ACEE;
-    color: white;
-  }
-  .fa-snapchat {
-    background: yellow;
-    color: white;
-  }
-  
-  
+  padding: 3px;
+  font-size: 8px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+}
 
+.fa:hover {
+  opacity: 0.7;
+}
 
-  .b1 {
-    border-radius: 4px;
-    background-color: #484444;
-    border: none;
-    color: #ffffff;
-    text-align: center;
-    font-size: 10px;
-    padding: 6px;
-    width: 85px;
-    height: 40px;
-    transition: all 0.5s;
-    cursor: pointer;
-    margin: 5px;
-  }
-  
-  .b1 span {
-    cursor: pointer;
-    display: inline-block;
-    position: relative;
-    transition: 0.5s;
-  }
-  
-  .b1 span:after {
-    content: '\00bb';
-    position: absolute;
-    opacity: 0;
-    top: 0;
-    right: -20px;
-    transition: 0.5s;
-  }
-  
-  .b1:hover span {
-    padding-right: 25px;
-  }
-  
-  .b1:hover span:after {
-    opacity: 1;
-    right: 0;
-  }
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-snapchat {
+  background: yellow;
+  color: white;
+}
 
 
 
 
+.b1 {
+  border-radius: 4px;
+  background-color: #484444;
+  border: none;
+  color: #ffffff;
+  text-align: center;
+  font-size: 10px;
+  padding: 6px;
+  width: 85px;
+  height: 40px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.b1 span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.b1 span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.b1:hover span {
+  padding-right: 25px;
+}
+
+.b1:hover span:after {
+  opacity: 1;
+  right: 0;
+}
 
 
 
-  .title-word {
-    animation: color-animation 3s linear infinite;
+
+
+
+
+.title-word {
+  animation: color-animation 3s linear infinite;
+}
+
+.title-word-1 {
+  --color-1: #DF8453;
+  --color-2: #3D8DAE;
+  --color-3: #E4A9A8;
+}
+
+.title-word-2 {
+  --color-1: #DBAD4A;
+  --color-2: #ACCFCB;
+  --color-3: #17494D;
+}
+
+.title-word-3 {
+  --color-1: #ACCFCB;
+  --color-2: #E4A9A8;
+  --color-3: #ACCFCB;
+}
+
+.title-word-4 {
+  --color-1: #3D8DAE;
+  --color-2: #DF8453;
+  --color-3: #E4A9A8;
+}
+
+@keyframes color-animation {
+  0% {
+    color: var(--color-1)
   }
-  
-  .title-word-1 {
-    --color-1: #DF8453;
-    --color-2: #3D8DAE;
-    --color-3: #E4A9A8;
+
+  32% {
+    color: var(--color-1)
   }
-  
-  .title-word-2 {
-    --color-1: #DBAD4A;
-    --color-2: #ACCFCB;
-    --color-3: #17494D;
+
+  33% {
+    color: var(--color-2)
   }
-  
-  .title-word-3 {
-    --color-1: #ACCFCB;
-    --color-2: #E4A9A8;
-    --color-3: #ACCFCB;
+
+  65% {
+    color: var(--color-2)
   }
-  
-  .title-word-4 {
-    --color-1: #3D8DAE;
-    --color-2: #DF8453;
-    --color-3: #E4A9A8;
+
+  66% {
+    color: var(--color-3)
   }
-  
-  @keyframes color-animation {
-    0%    {color: var(--color-1)}
-    32%   {color: var(--color-1)}
-    33%   {color: var(--color-2)}
-    65%   {color: var(--color-2)}
-    66%   {color: var(--color-3)}
-    99%   {color: var(--color-3)}
-    100%  {color: var(--color-1)}
+
+  99% {
+    color: var(--color-3)
   }
-  
- 
-  
-.title-word{
+
+  100% {
+    color: var(--color-1)
+  }
+}
+
+
+
+.title-word {
   font-family: 'Mochiy Pop One', sans-serif;
 }
-#p8{
+
+#p8 {
   font-family: 'Rampart One', cursive;
 }
-#p2{
-  font-family: 'Mochiy Pop One', sans-serif;
-}
-#p3{
+
+#p3 {
   font-family: 'Ultra', serif;
 }
-#p4{
+
+#p4 {
   font-family: 'Kranky', cursive;
 }
-#k1{
-  font-family: 'Ibarra Real Nova', serif;
+
+#k1 {
+  font-family: 'Edu TAS Beginner', cursive;
 }
-
-
-
-
-
-
-
-  
