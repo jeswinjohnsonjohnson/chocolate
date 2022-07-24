@@ -31,21 +31,15 @@
 
 
 .o1 {
-  width: 300px;
-  height: auto;
-  overflow: hidden;
-}
-
-.o1 {
-  width: 100%;
-  transition: all .3s ease-in-out;
-}
-
-.o1:hover {
-  transform: scale(1.1);
-}
-
-
+  transition: 1s ease;
+  }
+  
+  .o1:hover{
+  -webkit-transform: scale(0.8);
+  -ms-transform: scale(0.8);
+  transform: scale(0.8);
+  transition: 0.5s ease;
+  }
 
 
 #m1 {
